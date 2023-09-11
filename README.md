@@ -12,4 +12,4 @@ Contrary to the above article, ADA's [Don't be afraid of big data] (https://newd
 
 Nowadays, many dental practices are embracing electronic dental records (EDR), simplifying data collection. Properly managed data analysis can elevate the quality of dental services and streamline workflows. Through data examination, high-risk patients for severe oral diseases can be identified, missed appointments reduced, and potential oral health deterioration preemptively addressed. Big data also facilitates a deeper understanding of disease patterns, enabling effective preventive measures. Delving into data trends uncovers opportunities to optimize practices, leading to notable improvements such as an 8% metric increase within 90 days. While numbers can be intimidating, they are invaluable tools that transform patient care and service quality. In essence, statistics don't depersonalize; they empower better care.
 
-In conclusion, big data and data analyst will provide benefits to our life but we need to be cautious. 
+In conclusion, big data and data analyst will provide benefits to our life but we need to be cautious. We should have confidence in it. 
